@@ -1,0 +1,19 @@
+* {
+    margin-left: 30px;
+    font-family: "微軟正黑體";
+}
+
+.section1,
+.section2,
+.section3 {
+    background-color: #3ED8DE;
+    border-radius: 15px;
+    margin-right: 500px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+div > dt {
+    font-size: 20px;
+    font-weight: bold;
+}

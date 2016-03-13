@@ -1,0 +1,29 @@
+* {
+    font-family: "標楷體";
+}
+
+#title {
+    font-size: 50px;
+    background-color: #99F6FE;
+    padding: 25px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.section1 {
+    margin: 0px 50px 30px 30px;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 50px;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 15px;
+}

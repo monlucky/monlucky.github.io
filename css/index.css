@@ -1,0 +1,32 @@
+     * {
+         margin-left: 30px;
+     }
+     
+     .top {
+         font-family: "標楷體";
+         font-size: 30px;
+         padding: 25px;
+         background-color: #35E0DA;
+         background-size: 400px 50px;
+         margin-right: 50px;
+         border-radius: 15px;
+         padding-left: 400px;
+     }
+     
+     .food {
+         padding: 100px;
+         background-size: 250px;
+         background-image: url(../picture/food.jpg);
+         background-repeat: no-repeat;
+         margin-top: 40px;
+         float: left;
+     }
+     
+     .career {
+         padding: 100px;
+         background-size: 250px;
+         background-image: url(../picture/pic2.jpg);
+         background-repeat: no-repeat;
+         float: left;
+         margin-left: 30px;
+     }
