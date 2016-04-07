@@ -1,0 +1,67 @@
+*{
+	box-sizing: border-box;
+}
+
+
+@media screen and (min-width: 1201px) {
+
+	.col-md-1{width: 20%}
+	.col-md-2{width: 80%}
+	.col-md-3{width: 80%}
+}
+
+@media screen and (min-width: 678px) and (max-width: 1200px) {
+
+	.col-md-1{width: 20%}
+	.col-md-2{width: 80%}
+	.col-md-3{width: 80%}
+}
+
+@media screen (max-width: 677px) {
+
+	.col-md-4{width: 100%}
+	.col-md-5{width: 100%}
+}
+
+.col-md-1{
+	height: 100vh;
+	background-color:#4CF7F4;
+	float: left;
+	border-style: solid;
+	border-right-style: none;
+	font-size: 30px;
+}
+
+.col-md-2{
+	height: 15vh;
+	background-image: url(image/天空.jpg);
+	float: right;
+	border-style: solid;
+}
+.col-md-3{
+	height: 85vh;
+	background-color: #4FEEC4;
+	float: right;
+	border-style: solid;
+	border-top-style: none;
+	background-image: url(image/稻草人.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat ;
+	background-color: rgba(255,255,255,0.5);
+	filter: alpha(opacity=50);
+	position: relative;
+}
+.col-md-2 h1{
+	color: #fff;
+	font-size: 30px;
+	font-family: "Comic Sans MS","Meiryo 明瞭體";
+    letter-spacing: .15em;
+    text-align: center;
+}
+
+#video{
+    position: absolute;
+    left:30%;
+    top: 30%;
+
+}

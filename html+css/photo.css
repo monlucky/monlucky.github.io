@@ -1,0 +1,22 @@
+*{
+
+}
+
+.photo img {
+	/*圖片有外框*/
+	background: #FFFFFF;
+    color: #000000;
+    border: 2px solid #CCCCCC;
+    padding: 8px;
+    margin-left: 5px;
+    
+}
+#photo1 ,#photo2 , #photo3 {
+	height: 500px;
+	width: auto;
+}
+
+#photo4 , #photo5 ,#photo6 ,#photo7{
+	width: 500px;
+	height: auto;
+}
